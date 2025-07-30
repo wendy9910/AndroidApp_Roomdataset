@@ -14,7 +14,7 @@
 │   ├── UserDao.kt
 │   └── UserRepository.kt
 ├── di/
-│   └── DatabaseProvider.kt（如果有）
+│   └── DatabaseProvider.kt
 ├── ui/
 │   ├── userinput/
 │   │   ├── UserInfoInputScreen.kt
